@@ -22,7 +22,7 @@ I'm a creative mind with a deep-rooted passion for **UI/UX Design** and **System
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Development & OS
-[https://img.shields.io/badge/Windows 10-blue]
+[https://img.shields.io/badge/Windows-blue]
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
