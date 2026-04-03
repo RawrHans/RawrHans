@@ -23,7 +23,7 @@ I'm a creative mind with a deep-rooted passion for **UI/UX Design** and **System
 
 
 ### Development & OS
-![Windows 10](https://img.shields.io/badge/Windows_10-0078D7?style=for-the-badge&logo=windows&logoColor=white)
+![Windows 10](https://img.shields.io/badge/Windows_10-0078D7?style=for-the-badge&logo=windows10&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
