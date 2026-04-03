@@ -19,7 +19,8 @@ I'm a creative mind with a deep-rooted passion for **UI/UX Design** and **System
 ### Design & Creative
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 
 ### Development & OS
 ![Windows 10](https://img.shields.io/badge/Windows_10-0078D7?style=for-the-badge&logo=windows&logoColor=white)
