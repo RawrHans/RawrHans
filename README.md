@@ -52,5 +52,5 @@ I'm obsessed with pushing boundaries—whether it's architecting a custom desk s
 
 ## 📫 Connect with me
 * **Portfolio:** Not Available
-* **Instagram:** fiyyur.ae_ ![Instagram](https://instagram.com/fiyyur.ae_)
+* **Instagram:** ![Instagram](https://img.shields.io/badge/instagram)
 * **LinkedIn:** Not Available
